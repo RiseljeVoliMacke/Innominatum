@@ -1,3 +1,6 @@
+-add backup for CDN http://www.hanselman.com/blog/CDNsFailButYourScriptsDontHaveToFallbackFromCDNToLocalJQuery.aspx
+
+
 function jsdebug($tmp)
 {
 	echo "<script>console.log(\"".$tmp."\")</script>";
