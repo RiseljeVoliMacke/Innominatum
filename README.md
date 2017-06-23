@@ -1,4 +1,12 @@
+-Try to make navbar center aligned
+-Replace header image
+
 -add backup for CDN http://www.hanselman.com/blog/CDNsFailButYourScriptsDontHaveToFallbackFromCDNToLocalJQuery.aspx
+
+
+
+
+
 
 
 function jsdebug($tmp)
